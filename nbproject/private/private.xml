@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/views/create.jsp</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Model/ProductModel.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Controller/ProductController.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Servlet/IndexServlet.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Query/ProductQuery.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Config/DBConnection.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/views/index.jsp</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/index.html</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Helper/StringHelper.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Servlet/AboutServlet.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/public/assets/backend/main.css</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/views/about.jsp</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/web/WEB-INF/web.xml</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Servlet/CreateServlet.java</file>
+            <file>file:/C:/belajar%20jsp/BelajarJSP/BelajarJSP-main/src/java/Controller/BaseController.java</file>
+        </group>
+    </open-files>
+</project-private>
